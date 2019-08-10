@@ -8,3 +8,7 @@ body {
 nav a {
   padding: 10px;
 }
+
+figcaption {
+  font-size: 8pt;
+}
