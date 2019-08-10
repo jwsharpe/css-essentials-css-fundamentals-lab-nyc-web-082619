@@ -20,9 +20,10 @@ figcaption {
 
 #details {
   display: block;
-  margin: auto;
 }
 
 #details div {
   float: left;
+  background: blue;
+  width:25%;
 }
